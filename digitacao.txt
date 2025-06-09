@@ -1,5 +1,0 @@
-Pra compilar:
-javac ControleEstoque.java
-
-Pra rodar:
-java ControleEstoque
